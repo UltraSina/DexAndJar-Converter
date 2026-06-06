@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/DexAndJarConverter/app/src/main/kotlin/com/sina/dexandjarconverter/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 4,
+          "index": 1652,
+          "line": 50
+        },
+        "start": {
+          "column": 4,
+          "index": 1652,
+          "line": 50
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/DexAndJarConverter/app/src/main/kotlin/com/sina/dexandjarconverter/MainActivity.kt"
+}

@@ -1,0 +1,26 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (SDK path, etc.)
+local.properties
+
+# Keystore files and signing keys
+*.jks
+*.keystore
+app/converter-release.jks
+
+# IDE (Android Studio / IntelliJ / AndroidIDE)
+.idea/
+*.iml
+*.iws
+*.ipr
+.cxx/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log Files
+*.log
