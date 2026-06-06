@@ -19,14 +19,6 @@ A native Android app to convert between DEX, JAR, and Smali formats — all on-d
 | JAR → Smali (ZIP) | Chained: JAR → DEX → Smali in one step |
 | Smali (ZIP) → JAR | Chained: Smali → DEX → JAR in one step |
 
-## Why not MT Manager?
-
-MT Manager handles APK editing but does **not** support:
-- Direct JAR ↔ DEX conversion
-- Smali ↔ JAR chained conversion
-- Running D8 compiler on-device
-
-This app fills that gap with a focused, minimal interface.
 
 ## Download
 
